@@ -1,0 +1,111 @@
+{
+    "main":{
+        "name": "Narindra Arifta Antoko",
+        "description" : "Hello, I am a Junior Frontend Developer",
+        "image": "narindrafoto.jpg",
+        "github" : "https://github.com/NarindraAA",
+        "linkdin" : "https://www.linkedin.com/in/narindra-arifta-antoko",
+        "project": "https://github.com/NarindraAA",
+        "bio": "I am a graduate of information systems. Interested in the world of programming and computers. Joined a technology student community while studying to improve my skills. Loved the modern and attractive website interface. Once developed a training registration website during an internship at BPSDMP Kominfo Surabaya. Coding using CSS, HTML, ReactJs and currently learning website development with a backend using Golang.",
+        "contactmessage": "Here is where you should write you",
+        "email": "narindraa60@gmail.com",
+        "phone": "081803131000",
+        "address": {
+            "street": "Simolawang 2 Barat",
+            "city": "Surabaya",
+            "state": "Indonesia",
+            "zip": "60144"
+        },
+        "resumedownload": "https://github.com/NarindraAA",
+        "social":[
+            {
+                "name":"instagram",
+                "url":"https://www.instagram.com/nar.arifta/",
+                "className":"fa fa-instagram"
+            },
+            {
+                "name":"twitter",
+                "url":"",
+                "className":"fa fa-twitter"
+            },
+            {
+                "name":"linkedin",
+                "url":"www.linkedin.com/in/narindra-arifta-antoko",
+                "className":"fa fa-linkedin"
+            },
+            {
+                "name":"github",
+                "url":"https://github.com/NarindraAA",
+                "className":"fa fa-github"
+            }
+            
+        ]
+    },
+
+    "resume":{
+        "skillmessage":"Here you can create a short",
+        "education": [
+            {
+                "school": "Institut Teknologi Adhi Tama Surabaya",
+                "degree": "Sarjana Sistem Informasi",
+                "graduated": "September 2023",
+                "description1": "Pernah mengikuti komunitas pada kampus yang bernama Ma-tech dengan posisi Devisi Dalam Negeri.",
+                "description2": "Membantu memberikan ide-ide untuk event yang akan di adakan oleh komunitas baik untuk masyarakat sekitar kampus ataupun adik-adik SMA/SMK yang ingin belajar."
+            
+            }
+        ],
+        "experience": [
+            {
+                "company": "BPSDMP Kominfo Surabaya",
+                "title": "Internship Web Programmer",
+                "years": "Juni 2021 - September 2021",
+                "description1": "Create a website program for registration of training and education with the team according to the wishes and directions.",
+                "description2": "Design and develop the interface and interaction between users and websites for training and education registration using bootstrap.",
+                "description3": "Develop and integrate website backends such as databases with the interface that has been created."
+            
+            }
+        ],
+        "skills": [
+            {
+                "name": "HTML",
+                "level": "85%"
+            },
+            {
+                "name": "CSS",
+                "level": "80%"
+            },
+            {
+                "name": "Javascript",
+                "level": "65%"
+            },
+            {
+                "name": "React.Js",
+                "level": "50%"
+            },
+            {
+                "name": "PHP",
+                "level": "50%"
+            }
+        ]
+    },
+
+    "portfolio":{
+        "projects": [
+            {
+                "title": "Restaurants Personal Website",
+                "category": "website",
+                "image": "porto1.png",
+                "url1": "https://github.com/NarindraAA",
+                "url2": "https://github.com/NarindraAA"
+            },
+            {
+                "title": "BPSDMP Kominfo website for training registration",
+                "category": "My travel blog",
+                "image": "porto2.png",
+                "url1": "https://github.com/NarindraAA",
+                "url2": "https://github.com/NarindraAA"
+            }
+           
+        ]
+    }
+}
