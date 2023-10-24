@@ -95,15 +95,15 @@
                 "title": "Restaurants Personal Website",
                 "category": "website",
                 "image": "porto1.png",
-                "url1": "https://restaurant-booking-website.vercel.app/",
-                "url2": "https://github.com/NarindraAA/MyRestaurant-Personal_website"
+                "url1": "https://github.com/NarindraAA/MyRestaurant-Personal_website",
+                "url2": "https://restaurant-booking-website.vercel.app/"
             },
             {
                 "title": "BPSDMP Kominfo website for training registration",
                 "category": "My travel blog",
                 "image": "porto2.png",
-                "url1": "https://bpsdmp-kominfo-web-register.vercel.app/",
-                "url2": "https://github.com/NarindraAA/BPSDMP-Kominfo_Web-register"
+                "url1": "https://github.com/NarindraAA/BPSDMP-Kominfo_Web-register",
+                "url2": "https://bpsdmp-kominfo-web-register.vercel.app/"
             }
            
         ]
